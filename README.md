@@ -14,11 +14,13 @@
 
 ## 📌 Project Overview
 
-**StayEase** is a **full-stack Airbnb clone** that allows users to:
+**StayEase** is a **full-stack Airbnb clone** developed by **Dereje Masresha** ([DevDere](https://github.com/DevDere)) that allows users to:
 
 - Browse property listings
 - View detailed property information
 - Complete bookings
+
+The full project repository is available here: [**airbnb-clone-project**](https://github.com/DevDere/airbnb-clone-project)
 
 This project demonstrates:
 
