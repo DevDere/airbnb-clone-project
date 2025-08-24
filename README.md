@@ -4,7 +4,10 @@
 [![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://react.dev/)
 [![Backend](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org/)
 [![Database](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
+[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Deployment](https://img.shields.io/badge/Deploy-AWS-orange?logo=amazonaws)](https://aws.amazon.com/)
+[![Deployment](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)
+[![Deployment](https://img.shields.io/badge/Deploy-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 ---
