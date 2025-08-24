@@ -1,14 +1,14 @@
 # 🏡 StayEase: Airbnb Clone Project
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-airbnb--clone--project-blue?logo=github)](https://github.com/DevDere/airbnb-clone-project)
-[![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://react.dev/)
-[![Backend](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org/)
-[![Database](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
-[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Deployment](https://img.shields.io/badge/Deploy-AWS-orange?logo=amazonaws)](https://aws.amazon.com/)
-[![Deployment](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)
-[![Deployment](https://img.shields.io/badge/Deploy-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+[![GitHub Repo](https://img.shields.io/badge/Repo-airbnb--clone--project-blue?logo=github)](https://github.com/DevDere/airbnb-clone-project)  
+[![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://react.dev/)  
+[![Backend](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)](https://nodejs.org/)  
+[![Database](https://img.shields.io/badge/Database-PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![Deployment](https://img.shields.io/badge/Deploy-AWS-orange?logo=amazonaws)](https://aws.amazon.com/)  
+[![Deployment](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)  
+[![Deployment](https://img.shields.io/badge/Deploy-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)  
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)  
 
 ---
 
@@ -18,20 +18,20 @@
 - View detailed property information  
 - Complete bookings  
 
-This project covers:  
+This project demonstrates:  
 - **Frontend Development** (React + Tailwind / CSS / HTML)  
 - **Backend APIs** (Node.js/Express)  
-- **Database Design** (MySQL/PostgreSQL/MongoDB)  
-- **Deployment** (Vercel/Netlify for frontend, AWS/Heroku for backend)
+- **Database Design** (MySQL/PostgreSQL)  
+- **Deployment** (Vercel/Netlify for frontend, AWS/Heroku for backend)  
 
 ---
 
 ## 🎯 Learning Objectives
 - Implement **responsive UI/UX designs**  
-- Structure a **complex web application**  
+- Structure a **scalable web application**  
 - Collaborate in a **team with defined roles**  
-- Build **component-based frontend architecture**  
-- Apply **best practices** in full-stack web development  
+- Build **modular frontend architecture**  
+- Apply **industry best practices** in full-stack development  
 
 ---
 
@@ -44,25 +44,18 @@ This project covers:
 | **Database**   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Versioning** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 | **Design**     | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) |
-| **Deployment** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
+| **Deployment** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white) |
 
 ---
 
 ## ✅ Project Requirements & Steps
 
-### 0. Project Initialization
-- Create public repo: **[`airbnb-clone-project`](https://github.com/DevDere/airbnb-clone-project)**  
-- Initialize with `README.md`  
-- Add project overview, goals, and tech stack  
-
----
-
-### 1. UI/UX Design Planning
+### 1. UI/UX Design Planning  
 
 #### 🎨 Design Goals
 - Intuitive booking flow  
 - Visual consistency  
-- Fast loading  
+- Fast performance  
 - Mobile-first responsiveness  
 
 #### 🌟 Key Features
@@ -76,13 +69,11 @@ This project covers:
 |------|-------------|
 | **Property Listing View** | Grid of available properties with filters |
 | **Listing Detailed View** | Property details, images, booking form |
-| **Simple Checkout View** | Streamlined payment & booking confirmation |
-
-> **User-Friendly Design** ensures higher **conversion rates** and better **customer satisfaction**.  
+| **Checkout View** | Streamlined payment & booking confirmation |
 
 ---
 
-### 2. More UI/UX Design Planning
+### 2. More UI/UX Design Planning  
 
 #### 🎨 Figma Design Specs
 - **Colors**  
@@ -97,8 +88,6 @@ This project covers:
   - Headings: *Circular, Bold (700), 24px–32px*  
   - Secondary Text: *Circular, Book (400), 14px*  
 
-✅ Identifying **design properties** ensures **consistency, accessibility, and faster dev cycles**.  
-
 ---
 
 ### 3. Project Roles & Responsibilities
@@ -106,53 +95,22 @@ This project covers:
 | Role | Responsibilities |
 |------|------------------|
 | **Project Manager** | Manage timeline & deliverables |
-| **Frontend Developers** | Build UI components, responsiveness |
-| **Backend Developers** | API, DB, business logic |
-| **Designers** | Mockups, design system, UX |
-| **QA/Testers** | Write & run test cases |
-| **DevOps Engineers** | CI/CD, deployment |
-| **Product Owner** | Define requirements, prioritize features |
+| **Frontend Developers** | Build UI components, ensure responsiveness |
+| **Backend Developers** | Implement APIs, database & business logic |
+| **Designers** | Create mockups, maintain design system |
+| **QA/Testers** | Write & execute test cases |
+| **DevOps Engineers** | Manage CI/CD & deployments |
+| **Product Owner** | Define requirements & prioritize features |
 | **Scrum Master** | Facilitate agile process |
 
 ---
 
 ### 4. UI Component Patterns
+- **Navbar** → Logo, search bar, user navigation, responsive menu  
+- **Property Card** → Image, price, location, rating, favorite button  
+- **Footer** → Links, company info, social media  
 
-- **Navbar**
-  - Logo, search bar, user navigation, responsive menu  
-
-- **Property Card**
-  - Image, price, location, rating, favorite button  
-
-- **Footer**
-  - Links, company info, social media, copyright  
-
-> Components will be **modular** & **reusable** for consistency.  
-
----
-
-## 📊 Best Practices
-- Modular, clean architecture  
-- Feature branches + meaningful commits  
-- Mobile-first responsive design  
-- WCAG accessibility compliance  
-- Up-to-date documentation  
-- Unit & integration testing  
-
----
-
-## 📝 Project Assessment
-- Manual QA review required  
-- Submit before deadline to generate review link  
-- Auto-check verifies core files  
-
----
-
-## ⏰ Timeline
-- **Start:** Aug 18, 2025 (12:00 AM)  
-- **Deadline:** Aug 25, 2025 (12:00 AM)  
-
-⚠️ *Late submissions cannot generate review links*  
+> Components are **modular** & **reusable** for consistency.  
 
 ---
 
