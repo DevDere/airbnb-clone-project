@@ -101,7 +101,7 @@ This project demonstrates:
 
 ---
 
-### 3. Project Roles & Responsibilities
+### 3. Project Roles and Responsibilities
 
 | Role                    | Responsibilities                           |
 | ----------------------- | ------------------------------------------ |
